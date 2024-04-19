@@ -1,3 +1,6 @@
-# Learn OpenGL
+# Glfw starter project
 
-Learning project for OpenGL Cpp and Cmake
+A stater project that include: 
+- CMake
+- GLFW 3.4
+- Cpp 11
