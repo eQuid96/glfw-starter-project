@@ -1,5 +1,5 @@
 # create an executable called learn-opengl
-add_executable(learn-opengl main.cpp)
+add_executable(learn-opengl main.cpp glad.c)
 
 target_compile_features(learn-opengl PRIVATE cxx_std_11)
 target_include_directories(learn-opengl PRIVATE ../include)
